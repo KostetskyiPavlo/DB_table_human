@@ -1,0 +1,81 @@
+﻿1) Random user name: 
+Margit Catledge  
+Amos Quinn  
+Sunny Gathings  
+Kimberly Kamaka  
+Rosio Chubb  
+Mariana Hosey  
+Racheal Abbot  
+Chante Luciano  
+Kirstin Lesser  
+Jeannine Snell  
+Florentino Emrich  
+Dorene Hotaling  
+Micaela Reddington  
+Nubia Weymouth  
+Karole Krone  
+Hyo Wulff  
+Lauri Raysor  
+Amparo Parente  
+Denisha Lant  
+Jovan Lash  
+Ahmed Dengler  
+Darla Hopper  
+Hayley Mcleroy  
+Joie Voltz  
+Samuel Tomson  
+Gerald Claunch  
+Nathanial Kurland  
+Meagan Morley  
+Jacquelyne Ambrosio  
+Mariel Porcelli  
+Melissia Blumenthal  
+Suk Tondreau  
+Antione Corey  
+Shondra Strong  
+Charlene Vallo  
+Hollis Cornish  
+Samira Gayer  
+Britta Cozad  
+Erline Heilmann  
+Dori Schrick 
+2) Random fancy cities: 
+Steelport
+Silentdenn
+Deerford
+Grimpoint
+Mossharbor
+Beachhaven
+Dirtcross
+Darkspell
+Maplehelm
+Castlemond
+Icefort
+Frostacre
+Wildeglen
+Bayford
+Highglen
+Grayharbor
+Mudpond
+Freyhallow
+Timberfall
+Sleetfront
+Midburgh
+Arrowfair
+Oceanwood
+Basinhollow
+Eastpass
+Swancall
+Chillfell
+Clayburn
+Bellburn
+Mighthost
+Wolfmaw
+Redpeak
+Crystalpond
+Demonview
+Earthyard
+Duskwood
+Stormyard
+Blindharbor
+Sleetwall
